@@ -1,0 +1,11 @@
+.ProductsContainer{
+    padding: 20px;
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    flex-wrap: wrap;
+    background-color:rgb(205, 246, 255);
+    
+}

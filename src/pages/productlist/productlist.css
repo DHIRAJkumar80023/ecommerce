@@ -1,0 +1,18 @@
+.FilterContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.FilterText{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.SelectOption{
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 15px;
+    font-weight:500;
+}

@@ -1,0 +1,143 @@
+.FooterContainer{
+    width: 100%;
+    display: flex;
+    min-width: 380px;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.LeftContainer{
+    width: 30%;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.SocialContainer{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.SocialIcon1{
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: blue;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.SocialIcon2{
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: rgb(255, 0, 132);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.SocialIcon3{
+    
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: skyblue;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.SocialIcon4{
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CenterContainer{
+    width: 30%;
+     height: 100%;
+    
+    
+    margin-bottom: 25px;
+    
+}
+
+.RightContainer{
+    width: 30%;
+    
+}
+
+.RightContainerImg{
+    margin-top: 10px;
+width: 150px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 20px;
+}
+
+.CenterContainerul{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.RightContainerItem1{
+display: flex;
+font-size: 20px;
+align-items: center;
+justify-content: center;
+margin-bottom: 10px;
+}
+
+.RightContainerItem2{
+display: flex;
+font-size: 20px;
+align-items: center;
+margin-bottom: 10px;
+
+}
+
+.RightContainerItem3{
+display: flex;
+font-size: 20px;
+align-items: center;
+justify-content: center;
+margin-bottom: 10px;
+}
+
+.RightContainerItem4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+
+}
+.FooterMenu{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 150px;
+    cursor: pointer;
+
+}

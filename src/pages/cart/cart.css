@@ -1,0 +1,176 @@
+.CartContainer{
+    width:100%;
+    
+}
+
+.CartWrapper{
+    width: 100%;
+}
+
+
+
+.CartTitle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.TOP{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    
+    
+    
+    
+}
+
+.TOPtexts{
+display: flex;
+align-items: center;
+justify-content: center;
+    
+    
+}
+
+.TOPtext{
+
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.TOPbutton{
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    
+    
+    
+}
+
+.TOPbutton2{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    
+}
+
+
+.CartItems{
+    width:60%;
+    min-width: 380px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.CartItem{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+
+.ProductColor{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.CartImg{
+    width: 200px;
+    margin: 50px;
+}
+
+.CartText{
+    font-size:20px;
+    font-weight: 350;
+}
+
+.CartQuantities{
+    font-size: 20px;
+    font-weight: 500;
+    flex-wrap: wrap;
+}
+
+.PriceAndQuantities{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.CartPrice{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.TotalPriceContainer{
+    
+    width: 40vh;
+    height: 40vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    border: 2px solid gray;
+}
+
+.OrderSummary{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.OrderSummaryText{
+    width: 40vh;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.OrderSummary-Btn{
+    padding: 10px;
+    width: 250px;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color:black;
+    color:white;
+    font-weight: 600;
+}
+
+.TotalPrices{
+    margin-right: 10px;
+}
+
+.TotalPriceList{
+    margin-left: 20px;
+}
+
+.CartBody{
+    height: 40vh;
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    
+
+}
